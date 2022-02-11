@@ -1,6 +1,6 @@
 # Hello there, i'm Alexander
 
-I am a full stack web developer from Nicaragua, mainly dedicated to providing the best digital solution. I consider myself an artist of the code. I am passionate about creating web applications...
+I'm a full stack web developer from Nicaragua, mainly focused on providing the best digital solutions. I consider myself an artist of coding. I'm passionate about creating web applications. 
 
 ## My Skills
 Language
